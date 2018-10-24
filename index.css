@@ -28,9 +28,6 @@ ul {
 	font-size: 20px;
 }
 
-li {
-	color: dodgerblue;
-}
 
 p {
 	font-size: 22px;
@@ -40,6 +37,7 @@ p {
 
 h3 {
 	font-size: 30px;
+	color: dodgerblue;
 }
 
 .externalsites {
@@ -50,7 +48,6 @@ h3 {
 }
 
 #esite1, #esite2, #esite3, #esite4 {
-	color: dodgerblue;
 	margin-left: 10px;
 	margin-right: 10px;
 }
