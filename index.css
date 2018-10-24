@@ -1,3 +1,17 @@
 ol {
- font-size: 15px; 
-}  
+	font-size: 15px;
+}
+
+ul {
+	font-size: 15px;
+}
+
+p {
+	font-size: 20px;
+	padding-left: 25px;
+
+}
+
+h3 {
+	font-size: 30px;
+}
