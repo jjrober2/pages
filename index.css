@@ -1,7 +1,19 @@
 #header {
 /*	background-color: rgb(244, 212, 207);
 */
-	
+	float: center;
+	position: fixed;
+	top: 0px;
+	padding: 10px;
+	margin: 0px;
+	width: 100%;
+	background-color: rgb(244, 244, 244);
+	border-bottom: 1px solid;	
+}
+
+.programs {
+	margin-top: 220px;
+	/*background-color: rgb(220, 208, 192);*/
 }
 
 h1 {
