@@ -1,17 +1,54 @@
+#header {
+/*	background-color: rgb(244, 212, 207);
+*/
+	
+}
+
+h1 {
+	font-family: georgia;
+}
+
 ol {
-	font-size: 15px;
+	font-size: 20px;
 }
 
 ul {
-	font-size: 15px;
+	font-size: 20px;
 }
 
 p {
-	font-size: 20px;
+	font-size: 22px;
 	padding-left: 25px;
 
 }
 
 h3 {
 	font-size: 30px;
+}
+
+.externalsites {
+	font-family: arialblack;
+	font-size: 30px;
+	padding: 15px;
+	
+}
+
+#esite1, #esite2, #esite3, #esite4 {
+	/*background-color: rgb(244, 212, 207);*/
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color: rgb(118, 50, 63);
+}
+
+a:hover {
+	color: rgb(137, 183, 245);
 }
