@@ -28,6 +28,8 @@ ul {
 	font-size: 20px;
 }
 
+
+
 p {
 	font-size: 22px;
 	padding-left: 25px;
@@ -46,7 +48,7 @@ h3 {
 }
 
 #esite1, #esite2, #esite3, #esite4 {
-	color: dogerblue;
+	color: dodgerblue;
 	margin-left: 10px;
 	margin-right: 10px;
 }
