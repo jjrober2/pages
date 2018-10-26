@@ -57,7 +57,9 @@ h3 {
 	margin-right: 10px;
 }
 
-
+.lorem {
+	float: left;
+}
 
 a:link {
 	text-decoration: none;
