@@ -26,28 +26,28 @@ h1 {
 }
 
 ol {
-	font-size: 20px;
+	font-size: 1.5em;
 }
 
 ul {
-	font-size: 20px;
+	font-size: 1.5em;
 }
 
 
 p {
-	font-size: 22px;
+	font-size: 1em;
 	padding-left: 25px;
 
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 1.8em;
 	color: dodgerblue;
 }
 
 .externalsites {
 	font-family: arialblack;
-	font-size: 30px;
+	font-size: 1.5em;
 	padding: 15px;
 	
 }
@@ -69,4 +69,5 @@ a:visited {
 
 a:hover {
 	color: rgb(137, 183, 245);
+	
 }
